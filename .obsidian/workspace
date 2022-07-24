@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "c9c468f3d6335ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a72167b0e5eb1b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Assembly Language/Registers.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa3003c104be1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "def491df4c428564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a844e300347b77e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f3286767e4a64d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fuzz",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "b026cea51a40b2cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d4bcdec0f81adeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c056b9e093cc43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assembly Language/Registers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a72167b0e5eb1b5",
+  "lastOpenFiles": [
+    "Assembly Language/Registers.md",
+    "Assembly Language/Memory.md",
+    "Assembly Language/CPU.md",
+    "Buffer Overflow/Introduction.md",
+    "Fuzzing.md",
+    "Untitled.md",
+    "Reverse Shell/File Transfer.md",
+    "Reverse Shell/Reverse Shell.md",
+    "Enumeration/Network Enumeration.md",
+    "Enumeration/DNS Enumeration - 53.md"
+  ]
+}
